@@ -1,0 +1,10 @@
+{
+  "name": "PIM",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./PIM.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nonnatee/system-design"
+  }
+}
