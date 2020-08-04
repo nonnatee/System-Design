@@ -6,5 +6,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/nonnatee/system-design"
+  },
+  "dependencies": {
+    "system-runtime": "^3.1.0"
   }
 }
